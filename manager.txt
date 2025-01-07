@@ -1,0 +1,2 @@
+adel:1234:E0911:Manager
+youssef:1234:E0497:Manager
